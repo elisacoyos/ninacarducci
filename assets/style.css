@@ -91,7 +91,6 @@ body {
 	font-size: 14px;
 }
 
-
 .title{
 	text-align: center;
 	padding-block: 2em;
@@ -353,3 +352,30 @@ input[type="submit"] {
 	}
 }
 
+.footer {
+	background-color: #1C6474;
+	color: white;
+	padding: 20px;
+  }
+  
+  .footer div {
+	margin-bottom: 10px;
+  }
+  
+  .footer .adresse, .footer .horaries, .footer .coordonnees {
+	flex: 1;
+  }
+   
+  .footer div {
+	font-size: 13px;
+  }
+  
+  .footer a {
+	color: white;
+	text-decoration: none;
+  }
+  
+ 
+  
+  
+  
